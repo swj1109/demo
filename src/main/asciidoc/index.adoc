@@ -1,0 +1,11 @@
+= API
+:toc: left
+:toclevels: 4
+:toc-title: 接口目录
+
+[[user]]
+== 1.用户管理
+
+[[user-getById]]
+=== 根据用户id获取用户信息
+operation::userById[]
